@@ -1,0 +1,86 @@
+
+.heading{
+
+    text-shadow: 6px 6px black;
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+body{
+
+    background-size: cover;
+}
+.sub-heading{
+
+    text-shadow: 2px 2px black;
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.copyright-footer{
+
+    text-shadow: 2px 2px black;
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#image1{
+    text-shadow: 2px 2px black;
+    color:rgb(23, 99, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+@keyframes example{
+
+    from{box-shadow: 1px 1px 500px #6441A4;}
+    to{box-shadow: 1px 1px 500px #00ff9d;}
+    
+}
+#image2{
+
+    text-shadow: 2px 2px black;
+    color:rgb(23, 99, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@keyframes example{
+
+    from{box-shadow: 1px 1px 500px #6441A4;}
+    to{box-shadow: 1px 1px 500px #00ff9d;}
+    
+}
+#image3{
+    text-shadow: 2px 2px black;
+    color:rgb(23, 99, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@keyframes example{
+
+    from{box-shadow: 1px 1px 500px #6441A4;}
+    to{box-shadow: 1px 1px 500px #00ff9d;}
+    
+}
+#image4{
+    text-shadow: 2px 2px black;
+    color:rgb(23, 99, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@keyframes example{
+
+    from{box-shadow: 1px 1px 500px #6441A4;}
+    to{box-shadow: 1px 1px 500px #00ff9d;}
+    
+}
+#image5{
+    text-shadow: 2px 2px black;
+    color:rgb(23, 99, 126);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+@keyframes example{
+
+    from{box-shadow: 1px 1px 500px #6441A4;}
+    to{box-shadow: 1px 1px 500px #00ff9d;}
+    
+}
+.footer{
+    text-shadow: 5px 5px black;
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
